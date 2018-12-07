@@ -1,5 +1,3 @@
-import java.sql.SQLInvalidAuthorizationSpecException;
-
 public class Main {
     static byte a0;
     static short a1;
